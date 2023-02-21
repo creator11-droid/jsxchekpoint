@@ -1,0 +1,1 @@
+export const Address = () =><h2>6 tunde bakare street ijeododo, lagos</h2>

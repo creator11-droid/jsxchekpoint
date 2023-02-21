@@ -1,0 +1,1 @@
+export const FullName = () =><h1>Atole Kester</h1>
